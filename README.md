@@ -5,7 +5,7 @@
 - 📫 How to reach me ...oeCo a
 oeCo 
 - 👀 
-currentlyacurrently https://duvoeco.wixsite.com/duvoeclothingcollc?fbclid=PAAaZm1zgCRWlWftnmaZs8RDLe3c_51ttsCKnVc5OzxmEExc57wMCRsiFIDhs
+currentlyacurrently https://duvoeco.wixsite.com/duvoeco-com
 <intent-filter android:autoVerify="true">
     <action android:name="android.intent.action.VIEW" />
         <category android:name="android.intent.category.DEFAULT" />
